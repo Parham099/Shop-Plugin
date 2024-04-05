@@ -1,0 +1,35 @@
+Prefix: "&6&lShop &4&»"
+
+Usage: "&cUsage &4» &c/shop help"
+PermissionMessage: "&eYou Dont Have Permission for use this command!"
+reloadMessage: "&aPlugin Reload is Finished!"
+commandNotFound: "&6This Command Not Found Use /shop help !"
+playerIsOffline: "&6This Player Is Offline!"
+
+FillerItem:
+  type: YELLOW_STAINED_GLASS_PANE
+  display-Name: " "
+  enchanted: false
+
+Sections:
+  BEACON: # Category Item (Just Use Items!)
+    category: OTHER #you need this for register your category in Items Section!
+    slot: 10 #all view Show Item in this slot in inventory Slots = 0 -> 53
+    display-Name: "&bOther" #Category display name
+    enchanted: true #Toggle Glowing
+
+
+# Items And Prices
+Items:
+  OTHER: #You register this name in Sections!
+    BEACON: # material
+      buy: 1 # buy price -1 = disable
+      sell: 1 # sell price -1 = disable
+      slot: 10 # slot in Inventory
+      page: 1 # Item Page Coming Soon!
+    BUCKET:
+      buy: 1
+      sell: 1
+      slot: 11
+      page: 1
+
