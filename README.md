@@ -1,5 +1,6 @@
 # Shop-Plugin
 This Is A Simple Shop Plugin For Developers
+Note: If You See a bug Please report to me I fix It Soon! 
 
 # Release Version Down (Pleace use last updates)
 
