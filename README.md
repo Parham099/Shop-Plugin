@@ -2,6 +2,11 @@
 This Is A Simple Shop Plugin For Developers
 Note: If You See a bug Please report to me I fix It Soon! 
 
+# Commands
+/shop open shop
+/shop open [user] open shop for other
+/shop additem 
+
 # Release Version
 # Release 1.0
 4/5/2024 Release Version 1.0 JarFile: https://workupload.com/file/x7xCJEWHxX7 (Support 1.17.1-1.20.4 {JDK17})
